@@ -1,0 +1,8 @@
+In python you can print text
+In python you can put things in lists
+In python you can put things in dictionaries and assign things to things in dictionaries
+In python you can have the user input something
+In python you can make variables change
+In python you can create functions to perform a process
+In python you can create a class of object that is used as a template for creating future variables with assigned functions
+In python you can talk about python
